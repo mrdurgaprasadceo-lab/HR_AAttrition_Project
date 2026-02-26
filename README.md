@@ -1,9 +1,11 @@
 HR Employee Attrition Analysis 📊
+
 ![Python](https://img.shields.io/badge/Python-3.9-blue)
 ![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-orange)
 ![Visualization](https://img.shields.io/badge/Visualization-Matplotlib-green)
 ![Project](https://img.shields.io/badge/Project-Completed-brightgreen)
 ![License](https://img.shields.io/badge/License-MIT-lightgrey)
+
 📌 Project Overview
 
 This project analyzes employee data to identify the key factors driving attrition.
