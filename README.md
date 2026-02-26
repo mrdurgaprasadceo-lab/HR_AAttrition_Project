@@ -1,5 +1,9 @@
 HR Employee Attrition Analysis 📊
-
+![Python](https://img.shields.io/badge/Python-3.9-blue)
+![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-orange)
+![Visualization](https://img.shields.io/badge/Visualization-Matplotlib-green)
+![Project](https://img.shields.io/badge/Project-Completed-brightgreen)
+![License](https://img.shields.io/badge/License-MIT-lightgrey)
 📌 Project Overview
 
 This project analyzes employee data to identify the key factors driving attrition.
@@ -43,12 +47,13 @@ The dataset includes employee demographics, job details, compensation, and satis
 
 ---
 
-🧠 Key Insights
+## 📊 Key Findings
 
-- Attrition is higher in specific departments and job roles
-- Employees with lower income show higher turnover
-- Overtime is strongly associated with attrition
-- Younger employees tend to leave more frequently
+- Overall attrition rate is **XX%**, indicating moderate employee turnover.
+- The **Sales department** shows the highest attrition compared to other departments.
+- Employees who work **overtime** are significantly more likely to leave.
+- Lower **job satisfaction** and **monthly income** correlate strongly with attrition.
+- Most attrition occurs among employees with **1–5 years of experience**, suggesting early-career turnover.
 
 ---
 
