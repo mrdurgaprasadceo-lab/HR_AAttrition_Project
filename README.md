@@ -74,14 +74,13 @@ The analysis highlights actionable drivers of employee turnover and demonstrates
 
 ---
 
-📂 Repository Structure
-
-
+## Repository Structure
+```
 HR_Attrition_Project/
-│
-├── hr_attrition_analysis.ipynb
-├── hr_attrition.csv
-└── README.md
+│── hr_attrition_analysis.ipynb
+│── hr_attrition.csv
+│── README.md
+```
 
 ---
 
